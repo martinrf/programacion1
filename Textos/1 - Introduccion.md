@@ -77,8 +77,6 @@ Queremos escribir un metodo que sea capaz de multiplicar dos numeros enteros men
 
 #### Mis primeras palabras
 
-Sabemos que tenemos que hacer, pero no sabemos como hacerlo, asi que empecemos por la parte sencilla, como expresar.
-
 metodo
 
     estos son nuestras descripciones de pasos, en cada uno de los lenguajes estos se expresaran con alguna palabra clave
@@ -97,3 +95,8 @@ entero
 menores que X
 
     una regla de validacion
+    
+Sabemos que tenemos que hacer, pero no sabemos como hacerlo, asi que empecemos por la parte sencilla, como expresar. (ref ejercicios)
+
+* Describir en lenguaje natural el algoritmo requerido
+* Describir en c# el algoritmo requerido.
