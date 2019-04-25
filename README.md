@@ -15,5 +15,5 @@ Curso Particular de Programacion
 * Do While
 * Do Until
 * For Next
-* Ejercicio 4: Sumar de una lista de enteros.
+** Ejercicio 4: Sumar de una lista de enteros.
 * HW: Buscar el Algortimo de la Raiz Cuadrada y estudiarlo.
