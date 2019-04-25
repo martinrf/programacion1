@@ -9,10 +9,10 @@ Curso Particular de Programacion
 * HW: Potencia.
 
 # Clase 2 - Estructuras de Control
-* If
-* Switch
-* For
-* While
+* If Then Else
+* Switch Case
+* Do While
 * Do Until
+* For Next
 * Ejercicio 2: Suma de una lista de valores.
 * HW: Buscar el Algortimo de la Raiz Cuadrada y estudiarlo.
