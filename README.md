@@ -11,9 +11,9 @@ Curso Particular de Programacion
 # Clase 2 - Estructuras de Control
 * If Then Else
 * Switch Case
-* Ejercicio 3: Divisibilidad
+- Ejercicio 3: Divisibilidad
 * Do While
 * Do Until
 * For Next
-** Ejercicio 4: Sumar de una lista de enteros.
+- Ejercicio 4: Sumar de una lista de enteros.
 * HW: Buscar el Algortimo de la Raiz Cuadrada y estudiarlo.
