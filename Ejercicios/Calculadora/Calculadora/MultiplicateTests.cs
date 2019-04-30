@@ -10,9 +10,27 @@ namespace Calculadora
             return first * second;
         }
 
+        public bool EsPerro()
+        {
+            return true;
+        }
+
+        public bool EsGato()
+        {
+            return false;
+        }
+
         [Fact]
         public void OneTimesOneIsOne()
         {
+            bool flag = true;
+            bool Noflag = false;
+            bool miVarBool = true;
+            int miVarInt = 4;
+            string miVarString = "";
+            var miVarString2 = "";
+
+
             Assert.Equal(1, Multiplicate(1, 1));
         }
 
