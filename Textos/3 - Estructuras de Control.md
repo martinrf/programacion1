@@ -4,7 +4,7 @@ Las estructuras de control, son aquellas sentencias (statements) que le indican 
 correr o cuantas veces correrlo. Estas estructuras se caracterizan por evaluar condiciones booleanas (condiciones de
 true o false) y por tomar una decision con respecto a esta evaluacion.
 
-* If Then Else
+## If Then Else
 
 La sentencia "if" evalua la siguiente condicion booleana a su derecha y si la evaluacion es verdadera (true) entonces
 ejecutara el codigo inmediatamente siguiente. En caso de que la condicion sea evaluada como falsa, se procedera a 
@@ -31,5 +31,5 @@ por ejemplo un if
       Console.WriteLine("es negativo o cero");
     } 
 
-* Switch Case
+## Switch Case
 
